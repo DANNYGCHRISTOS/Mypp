@@ -4,8 +4,9 @@ class Home extends Component {
   state = {};
   render() {
     return (
-      <div className="headline">
-        <div className="body">
+      <div className="pagecontainer">
+        <div className="headline">hl</div>
+        <div className="bodyc">
           <div className="leftbox">lb</div>
           <div className="rightbox">rb</div>
         </div>
